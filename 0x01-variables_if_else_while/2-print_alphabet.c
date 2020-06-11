@@ -9,7 +9,7 @@ int main(void)
 char x;
 for ("x='a';x='z';x++")
 {
-putchar("%d", x)
+putchar(x)
 }
 return (0);
 }
