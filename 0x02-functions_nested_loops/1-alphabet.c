@@ -1,8 +1,6 @@
 #include "holberton.h"
 /**
- * main -print_alphabet void
- *
- * Return: Always 0 (Success)
+ *print_alphabet - a function that prints the alphabet in lowercase .
  */
 void print_alphabet(void)
 {
