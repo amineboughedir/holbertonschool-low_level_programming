@@ -6,15 +6,15 @@
  */
 int main(void)
 {
-char a='H';
-char b='o';
-char c='l';
-char d='b';
-char e='e';
-char f='r';
-char g='t';
-char h='o';
-char i='n';
+char a = 'H';
+char b = 'o';
+char c = 'l';
+char d = 'b';
+char e = 'e';
+char f = 'r';
+char g = 't';
+char h = 'o';
+char i = 'n';
 putchar(a);
 putchar(b);
 putchar(c);

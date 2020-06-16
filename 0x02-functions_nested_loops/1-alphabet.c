@@ -1,10 +1,10 @@
 #include "holberton.h"
 /**
- * main -putchar
+ * main -print_alphabet void
  *
  * Return: Always 0 (Success)
  */
-void print_alphabet(void)
+void print_alphabet(void);
 {
 char x;
 
@@ -13,5 +13,4 @@ for (x = 'a'; x <= 'z'; x++)
 _putchar(x);
 }
 _putchar('\n');
-return ;
 }
